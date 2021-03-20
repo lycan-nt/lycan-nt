@@ -3,7 +3,7 @@
 <!--  Here are some ideas to get you started: -->
 
  <!--  - 🔭 I’m currently working on ... -->
-## - 🌱 I am currently learning full stack development, I am mainly focusing on Node, Angular And Java.
+## - 🌱 I am currently learning full stack development, I am mainly focusing on Node, Angular and Java.
 
 ## - ⚡ About me: 
     I am dedicated and passionate about technology, always looking to learn and qualify to implement better solutions. 
