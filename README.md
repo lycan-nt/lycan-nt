@@ -7,7 +7,7 @@
 
 ## - ⚡ About me: 
     I am dedicated and passionate about technology, always looking to learn and qualify to implement better solutions. 
-    With knowledge in Javascript (Node JS, React JS) and C #. 
+    With knowledge in Javascript (Node JS, Angular) and Java. 
     Implementing both in the Back-end and in the Front-end of applications. 
     Currently I am deepening in the Full Stack development to become a professional more and more qualified     
     to implement better solutions that add value to the user. 
