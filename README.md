@@ -1,4 +1,4 @@
-## Hi there I'm Felipe D. Santos! Web Developer, Programmer(NodeJS, Angular, Java).👋
+## Hi there I'm Felipe D. Santos! Web Developer, Programmer(Java, NodeJS, Python).👋
 
 ##  💻 About me
     Dedicated and passionate about technology, always looking to learn and qualify to implement better solutions. 
